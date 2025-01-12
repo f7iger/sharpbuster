@@ -1,0 +1,15 @@
+/home/alves/Build/sharpbuster/bin/Debug/net6.0/sharpbuster
+/home/alves/Build/sharpbuster/bin/Debug/net6.0/sharpbuster.deps.json
+/home/alves/Build/sharpbuster/bin/Debug/net6.0/sharpbuster.runtimeconfig.json
+/home/alves/Build/sharpbuster/bin/Debug/net6.0/sharpbuster.dll
+/home/alves/Build/sharpbuster/bin/Debug/net6.0/sharpbuster.pdb
+/home/alves/Build/sharpbuster/obj/Debug/net6.0/sharpbuster.csproj.AssemblyReference.cache
+/home/alves/Build/sharpbuster/obj/Debug/net6.0/sharpbuster.GeneratedMSBuildEditorConfig.editorconfig
+/home/alves/Build/sharpbuster/obj/Debug/net6.0/sharpbuster.AssemblyInfoInputs.cache
+/home/alves/Build/sharpbuster/obj/Debug/net6.0/sharpbuster.AssemblyInfo.cs
+/home/alves/Build/sharpbuster/obj/Debug/net6.0/sharpbuster.csproj.CoreCompileInputs.cache
+/home/alves/Build/sharpbuster/obj/Debug/net6.0/sharpbuster.dll
+/home/alves/Build/sharpbuster/obj/Debug/net6.0/refint/sharpbuster.dll
+/home/alves/Build/sharpbuster/obj/Debug/net6.0/sharpbuster.pdb
+/home/alves/Build/sharpbuster/obj/Debug/net6.0/sharpbuster.genruntimeconfig.cache
+/home/alves/Build/sharpbuster/obj/Debug/net6.0/ref/sharpbuster.dll
