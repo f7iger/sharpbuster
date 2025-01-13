@@ -16,6 +16,8 @@ Or compile with mono-complete and run the binary
 
 `$ sudo bash Linux_Install_Requirements.sh`
 
+`sharpbuster --help`
+
 <img src="https://github.com/f7iger/sharpbuster/blob/main/cmdline.png">
 
 ## TODO
